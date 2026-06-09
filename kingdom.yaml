@@ -1,0 +1,8 @@
+name: synophora
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The wordless event-quality of two or more people carrying the same beauty together, each silently recognizing the other as a fellow-carrier.
+dependsOn: [youspeak, me, orthophanes]
